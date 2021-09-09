@@ -1,0 +1,56 @@
+body {
+  font-family: "Happy Monkey";
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  padding: 0 50px;
+  box-shadow: 0 9px 0px 0px #f0f1f5, 0 -9px 0px 0px #f0f1f5,
+    12px 0 15px -4px rgba(0, 55, 162, 0.97),
+    -12px 0 15px -4px rgba(0, 55, 162, 0.97);
+}
+
+p,
+li {
+  color: #707070;
+}
+
+li {
+  padding: 5px 0;
+}
+
+h1 {
+  color: #db0038;
+}
+
+h2 {
+  color: #3998a3;
+}
+
+h3 {
+  color: #474747;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.hero {
+  background-color: #f4f4f4;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.rating {
+  text-align: center;
+}
+
+.rating span {
+  color: #f4b400;
+  font-size: 25px;
+}
+
+footer {
+  text-align: center;
+}
